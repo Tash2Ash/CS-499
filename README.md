@@ -1,2 +1,4 @@
-# CS-499
-Capstone
+# Tasha Loudermilk ePortfolio
+CS 499 Capstone
+
+
