@@ -21,5 +21,4 @@ With the enhancements proposed above I hope to illustrate skills I have learned 
 
 In the video below I review the previous project and summarize my plans for enhancements described above.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJVIL6loSF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/fJVIL6loSF4
