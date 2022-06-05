@@ -19,4 +19,7 @@ With the enhancements proposed above I hope to illustrate skills I have learned 
 
 # CODE REVIEW
 
-In this [Video] (https://youtu.be/fJVIL6loSF4) I review the previous project and summarize my plans for enhancements described above.  
+In the video below I review the previous project and summarize my plans for enhancements described above.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJVIL6loSF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
