@@ -15,10 +15,3 @@ The final portion of the ePortfolio will be a continuation of the skills demonst
 ## ePortfolio Summary
 
 With the enhancements proposed above I hope to illustrate skills I have learned throughout the program and develop a web application from start to finish.  The enhancements begin with the creation of a database, functionality to modify the repository as needed, and the ability to view and interact with the data using a web application.  The narrative will include a walkthrough of the process, that includes explanations as to each approach, and any thoughts for future improvements to the code and anything that I would like to explore further.  For the overall professional assessment, I hope to showcase my ability when given data to create an environment that can provide a functional application of the data.  With each portion of the project, I hope to uncover any aspects of development that I need to research and work more on to become proficient and use in the future professionally.
-
-
-# CODE REVIEW
-
-In the video below I review the previous project and summarize my plans for enhancements described above.
-
-https://www.youtube.com/embed/fJVIL6loSF4
