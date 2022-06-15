@@ -10,7 +10,7 @@
 ## Self Reflection
 
 ## [Code Review](https://youtu.be/fJVIL6loSF4)
-Before beginning any work for the artifacts in CS 499 I created a video reviwing the material being used for the project.  This video discusses the existing code, along with an analysis of what worked and what could be improved upon.  It also includes the plans for the enhancements in mind at the beginning of the project.
+Before beginning any work for the artifacts in CS 499 I created a [video](https://youtu.be/fJVIL6loSF4) reviwing the material being used for the project.  This video discusses the existing code, along with an analysis of what worked and what could be improved upon.  It also includes the plans for the enhancements in mind at the beginning of the project.
 
 ## [MongoDB Creation and Data Loading](github.com/Tash2Ash/CS-499/tree/main/Software%20Design%20%26%20Engineering)
 ### A.  Briefly describe the artifact.  What is it? When was it created?
